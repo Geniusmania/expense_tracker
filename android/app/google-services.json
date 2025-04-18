@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143428416686",
+    "project_id": "expese-d584c",
+    "storage_bucket": "expese-d584c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143428416686:android:265aa1ec5f00e1a947a93f",
+        "android_client_info": {
+          "package_name": "com.example.expense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCgu1hIT87MH5wAHjsPoL584M69YygZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
